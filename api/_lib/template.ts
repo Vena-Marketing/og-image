@@ -50,7 +50,7 @@ function getCss(theme: string, fontSize: string) {
 
     body {
         background: ${background};
-        background-image: url('https://7282783.fs1.hubspotusercontent-na1.net/hubfs/7282783/01%20Website%20Files/Backgrounds/Waving-Grid-1.png');
+        background-image: url('https://7282783.fs1.hubspotusercontent-na1.net/hubfs/7282783/01%20Website%20Files/Backgrounds/Waving-Grid-1-50opacity.png');
         background-size: cover;
         background-repeat: no-repeat;
         height: 100vh;
