@@ -161,7 +161,7 @@ const imageLightOptions: DropdownOption[] = [
   {
     text: 'Vena Solutions',
     value:
-      'https://7282783.fs1.hubspotusercontent-na1.net/hubfs/7282783/Vena%20Logo/Vena-Logo.svg',
+      'https://7282783.fs1.hubspotusercontent-na1.net/hubfs/7282783/Vena%20Logo/NEWVena-Logo.svg',
   },
   {
     text: 'Plan To Grow',
@@ -174,7 +174,7 @@ const imageDarkOptions: DropdownOption[] = [
   {
     text: 'Vena Solutions',
     value:
-      'https://7282783.fs1.hubspotusercontent-na1.net/hubfs/7282783/Vena%20Logo/Vena-Logo-%20WHITE.svg',
+      'https://7282783.fs1.hubspotusercontent-na1.net/hubfs/7282783/Vena%20Logo/NEWVena-Logo-White.svg',
   },
   {
     text: 'Plan To Grow',

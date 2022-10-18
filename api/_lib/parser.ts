@@ -56,8 +56,8 @@ function getArray(stringOrArray: string[] | string | undefined): string[] {
 function getDefaultImages(images: string[], theme: Theme): string[] {
   const defaultImage =
     theme === 'light'
-      ? 'https://7282783.fs1.hubspotusercontent-na1.net/hubfs/7282783/Vena%20Logo/Vena-Logo.svg'
-      : 'https://7282783.fs1.hubspotusercontent-na1.net/hubfs/7282783/Vena%20Logo/Vena-Logo-%20WHITE.svg';
+      ? 'https://7282783.fs1.hubspotusercontent-na1.net/hubfs/7282783/Vena%20Logo/NEWVena-Logo.svg'
+      : 'https://7282783.fs1.hubspotusercontent-na1.net/hubfs/7282783/Vena%20Logo/NEWVena-Logo-White.svg';
 
   if (!images || !images[0]) {
     return [defaultImage];
